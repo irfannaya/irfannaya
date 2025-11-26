@@ -6,19 +6,19 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class RedTeam:
+class About_me:
 
     def __init__(self):
         self.name = 'Muhammad Irfan'
         self.hobby = 'Learning About Tech'
         self.city = 'Yogyakarta-Indonesia'
         self.tool = 'VSCode', 'Mikrotik', 'Kalilinux']
-        self.skill ='Python', 'Network','Analysis', 'CTF']
+        self.skill = 'Python', 'Network','Analysis', 'CTF']
 
     def hello(self):
         print('Hy, welcome to my github, i hope you interesting to my project')
 
 
-me = RedTeam()
+me = Irfan()
 me.hello()
 ```

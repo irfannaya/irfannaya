@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+<h2>Hello <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+</div>
+    
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<!--
-**irfannaya/irfannaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class RedTeam:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.name = 'Muhammad Irfan'
+        self.hobby = 'Learning About Tech'
+        self.city = 'Yogyakarta-Indonesia'
+        self.tool = 'VSCode', 'Mikrotik', 'Kalilinux']
+        self.skill ='Python', 'Network','Analysis', 'CTF']
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def hello(self):
+        print('Hy, welcome to my github, i hope you interesting to my project')
+
+
+me = RedTeam()
+me.hello()
+```

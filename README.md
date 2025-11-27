@@ -4,7 +4,7 @@
     
 ```python
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
+# -- coding: utf-8 --
 
 class About_me:
 
